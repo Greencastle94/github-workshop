@@ -21,8 +21,10 @@ Den här filen ska INTE ändras något.
 
 7. Uppdatera din lokala master repo
 8. Uppdatera din branch med master
-9. Redigera fil-1, 2 & 3 i din branch
-10. Uppdatera din lokala master repo
-11. Uppdatera din branch med master
-12. Hantera krock
-13. Pusha och merge:a med master (Pull request)
+9. for (x=1; x<=3; x++) {             // Lite Java-kod, hehe ;)
+      1. Redigera fil-x i din branch
+      2. Uppdatera din lokala master repo
+      3. Uppdatera din branch med master
+      4. Hantera eventuell krock
+      5. Pusha och merge:a med master (Pull request)
+    }
