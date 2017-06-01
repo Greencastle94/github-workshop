@@ -28,3 +28,5 @@ Den här filen ska INTE ändras något.
       4. Hantera eventuell krock
       5. Pusha och merge:a med master (Pull request)
     }
+
+-- DU ÄR KLAR! VÄNTA DE ANDRA ELLER HJÄLP DOM --
