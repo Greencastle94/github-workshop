@@ -1,0 +1,28 @@
+-------------- OBS! ----------------
+Den här filen ska INTE ändras något.
+------------------------------------
+
+### MÅL ###
+1. Klona och ladda ner en repo
+2. Skapa en egen branch
+3. Commita ändringar
+4. Pusha och merge:a sin branch med master
+5. Hantera merge-krockar
+
+### INSTRUKTIONER ###
+1. CHECK! - Ladda ner och installera git (GitHub Client)
+2. CHECK! - Klona och ladda ner workshop-repot
+3. Skapa en egen branch med ditt namn
+4. Skapa en txt-fil och döp till ditt namn (valfri text i filen)
+5. Commita ändringarna (med relevant meddelande)
+6. Pusha och merge:a med master (Pull request)
+
+-- HÄR FÅR DU VÄNTA TILLS ALLA ÄR KLARA --
+
+7. Uppdatera din lokala master repo
+8. Uppdatera din branch med master
+9. Redigera fil-1, 2 & 3 i din branch
+10. Uppdatera din lokala master repo
+11. Uppdatera din branch med master
+12. Hantera krock
+13. Pusha och merge:a med master (Pull request)
