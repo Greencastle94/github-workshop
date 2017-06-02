@@ -4,6 +4,7 @@ Den här filen SKA ändras.
 
 Skriv en kort dick:
 
+
 Mitt namn är Jonas,
 Du känner inte mig,
 Men jag är glad som få,
@@ -11,3 +12,6 @@ Men nu ligger jag här i en å,
 Hur gick det här till?,
 Jo, jag gjorde allt för en fille - kan även kallas grill,
 Men nu simmar jag istället runt här med herr Sill.
+
+Herr Sill ser ut såhär: 
+8=D
