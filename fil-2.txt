@@ -4,4 +4,6 @@ Den här filen SKA ändras.
 
 Skriv en kort rolig historia:
 
--ERSÄTT DETTA MED DIN EGEN TEXT-
+det var en sand, den var gångad
+
+checkout min master, du kan få pulla den om du vill
