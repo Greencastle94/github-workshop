@@ -4,6 +4,7 @@ Den här filen SKA ändras.
 
 Skriv en kort rolig historia:
 
-det var en sand, den var gångad
-
-checkout min master, du kan få pulla den om du vill
+Lille Jesper såg sin kärlek, Inga, ramla i vattnet och sjunka mot botten som en sten - hon kunde inte simma.
+Snabbt ringde han 112 och sa "Inga har ramlat i vattnet",
+vilket han fick svaret "Men det var väl bra det!".
+Så såg han aldrig Inga igen.
