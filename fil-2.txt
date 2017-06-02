@@ -5,3 +5,5 @@ Den här filen SKA ändras.
 Skriv en kort rolig historia:
 
 det var en sand, den var gångad
+
+checkout min master, du kan få pulla den om du vill
