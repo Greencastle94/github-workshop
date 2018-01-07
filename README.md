@@ -1,2 +1,2 @@
 # github-workshop
-Detta är en repo för GitHub-workshop
+Detta är ett repo för GitHub-workshop
